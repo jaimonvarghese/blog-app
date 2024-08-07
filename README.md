@@ -14,3 +14,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Setup Instructions
+
+1. Clone the repository:
+
+  https://github.com/jaimonvarghese/blog-app.git
+
+2. Navigate to the project directory:
+
+  cd blog_explorer
+
+3. Get the dependencies:
+
+  flutter pub get
+
+4.Run the app:
+  flutter run
+
